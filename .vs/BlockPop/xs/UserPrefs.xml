@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GenerateScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GenerateScript.cs" Line="89" Column="2" />
+      <File FileName="Assets/Scripts/BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShipDragScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BlockScript.cs" Line="78" Column="6" />
+      <File FileName="Assets/Scripts/GameConstantsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameMachineScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RendererExtensions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SoundoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="48" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
